@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Lotto {
+public class CH05_Lotto {
     public static void main(String[] args) throws Exception {
         String address = "https://www.dhlottery.co.kr/gameResult.do?method=byWin";
 
